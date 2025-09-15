@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Sistemas de Informação** na **Uniara** – previsão de conclusão: **dezembro de 2027**  
 💻 Focado em **Front-end, Back-end e Desenvolvimento de Software**  
-📚 Atualmente estudando **HTML, CSS, JavaScript, React, e fundamentos de Back-end (ponteiros e arquivos)**  
+📚 Atualmente estudando **HTML, CSS, JavaScript, React, e fundamentos de Back-end com Java**  
 🌱 Interesse em **Desenvolvimento Web, Banco de Dados e Integração Front/Back**  
 
 ---
