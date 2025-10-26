@@ -18,7 +18,7 @@
 
 ## 📌 Projetos em Destaque  
 
-- **[Portfólio](https://github.com/ViniciusMarquesz/portfolio)** – Projeto pessoal com HTML e CSS  
+- **[TodoList](https://github.com/ViniciusMarquesz/TodoLIst)** – Projeto pessoal com HTML e CSS e **JavaScript**  
 - **[Bikcraft](https://github.com/ViniciusMarquesz/bikcraft)** – Site responsivo com HTML e CSS  
 - **[Flexblog](https://github.com/ViniciusMarquesz/flexblog)** – Projeto explorando **Flexbox**  
 - **[Wildbeast](https://github.com/ViniciusMarquesz/wildbeast)** – Projeto explorando **Grid Layout**  
